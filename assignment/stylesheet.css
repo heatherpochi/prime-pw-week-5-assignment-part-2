@@ -2,11 +2,13 @@ header{
   background-color: #002266;
   color: #e6eeff;
   text-align: center;
+  line-height: 2;
 }
 
 main{
   background-color: lightgrey;
   padding: 1em;
+
 }
 
 body{
@@ -16,13 +18,15 @@ body{
   margin: 0;
 }
 
-#large-font{
-  font-size: 30px;
+h2{
+  text-align: center;
+  font-size: 35px;
+  color: #002266;
 }
 
 .card{
   max-width: 50%;
   display: block;
   margin: 10px auto;
-  border: 2px #002266 solid;
+  border: 2px #404040 solid;
 }
