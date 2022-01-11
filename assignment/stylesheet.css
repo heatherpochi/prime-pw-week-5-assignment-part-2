@@ -19,3 +19,10 @@ body{
 #large-font{
   font-size: 30px;
 }
+
+.card{
+  max-width: 50%;
+  display: block;
+  margin: 10px auto;
+  border: 2px #002266 solid;
+}
